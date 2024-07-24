@@ -16,6 +16,8 @@ This repository contains the code used for the manuscript titled:
 
 5 Julius Wolff Institut, Berlin Institute of Health - Charité at Universitätsmedizin Berlin | Berlin | Germany
 
+Furhter information regarding the Berlin Back study and the dataset we used can be found [HERE](https://jwi.charite.de/en/research/research_organ_level_biomechanics/spine_biomechanics/spine_study/)
+
 ## Directory Information
 - `01_preproc_clean` contains scripts preprocessing, cleaning (removing missing values), dividing Berlin Back dataset into modality datastes, and creating sample distribution plots
 - `02_feat_imp_model` contains scripts for running the feature selection and classificaion model functions located in `func` and summarise the model outputs
