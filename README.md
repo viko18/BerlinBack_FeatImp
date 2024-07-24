@@ -1,4 +1,4 @@
-# BerlinBack_FeatImp
+# Berlin Back Feature Importance in cLBP Diagnosis
 
 This repository contains the code used for the manuscript titled:
 
@@ -15,3 +15,11 @@ This repository contains the code used for the manuscript titled:
 4 Center for Musculoskeletal Surgery, Charité – Universitätsmedizin Berlin, Berlin, Germany
 
 5 Julius Wolff Institut, Berlin Institute of Health - Charité at Universitätsmedizin Berlin | Berlin | Germany
+
+## Directory Information
+- `01_preproc_clean` contains scripts preprocessing, cleaning (removing missing values), dividing Berlin Back dataset into modality datastes, and creating sample distribution plots
+- `02_feat_imp_model` contains scripts for running the feature selection and classificaion model functions located in `func` and summarise the model outputs
+- `03_holdout_model` Uses the most robust and important features for classification in holdout (10%) sample
+- `04_univariate_stats` contains the script used for conducting univariate group (cLBP pateint vs control) statistics that was written by Dr Frederick Junker (Frederick.Junker@hs-gesundheit.de)
+- `func` Functions used for feature importance selection and machine learning modelling
+
