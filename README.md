@@ -2,7 +2,7 @@
 
 This repository contains the code used for the manuscript titled:
 
-**Integrating Multidimensional Data Analytics for Precision Diagnosis and Personalized Treatment of Chronic Low Back Pain** [medRxiv] (https://www.medrxiv.org/content/10.1101/2024.10.29.24316352v1)
+**Integrating Multidimensional Data Analytics for Precision Diagnosis and Personalized Treatment of Chronic Low Back Pain** [medRxiv](https://www.medrxiv.org/content/10.1101/2024.10.29.24316352v1)
 
 **Sam Vickery1**, Frederick Junker1, Rebekka Döding1, Daniel L Belavy1, Maia Angelova2,3, Chandan Karmakar2, Luis Becker4,5, Nima Taheri4,5, Matthias Pumberger4, Sandra Reitmaier5, Hendrik Schmidt5 
 
